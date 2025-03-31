@@ -1,0 +1,25 @@
+{
+    "card": "💳 Card",
+    "deposit": "💰 Deposit",
+    "transfer": "📤 Transfer",
+    "history": "📄 History",
+    "manager": "📞 Manager",
+    "settings": "⚙️ Settings",
+    "wallet": "🔐 My Wallet",
+    "balance": "💰 Balance",
+    "welcome_back": "👋 Welcome back to Privaro!",
+    "registered": "✅ Registration completed!",
+    "name": "Name",
+    "card_balance": "Card Balance",
+    "crypto_balance": "Wallet Balance",
+    "card_number": "Card Number",
+    "exp": "Expiration",
+    "holder": "Cardholder",
+    "limit": "Limit",
+    "pin": "PIN Code",
+    "card_blocked": "❌ Your card is blocked.",
+    "deposit_address": "🔗 USDT TRC20 deposit address",
+    "choose_lang": "🌍 Choose your language:",
+    "lang_updated": "✅ Language updated!"
+  }
+  
